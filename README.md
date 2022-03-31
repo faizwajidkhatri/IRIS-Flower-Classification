@@ -13,3 +13,4 @@ Four Zip files have been uploaded
 3. images3
 4. images4
 5.Download and extract them and create a new folder name images and paste all the images in one folder 
+Else :// Dataset: Image source: (http://www.robots.ox.ac.uk/~vgg/data/flowers/17/index.html)
